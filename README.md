@@ -54,3 +54,4 @@ Input TIFF → EasyOCR → Text Filtering → Regex Parsing → ML Fallback → 
 | Error Rate | 7% | Mostly poor quality scans |
 
 ### Sample Results
+https://youtu.be/vfQqfh3Iuz8
